@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\bin\Debug\net6.0\Example007_MinMax.exe
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\bin\Debug\net6.0\Example007_MinMax.deps.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\bin\Debug\net6.0\Example007_MinMax.runtimeconfig.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\bin\Debug\net6.0\Example007_MinMax.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\bin\Debug\net6.0\Example007_MinMax.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\obj\Debug\net6.0\Example007_MinMax.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\obj\Debug\net6.0\Example007_MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\obj\Debug\net6.0\Example007_MinMax.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\obj\Debug\net6.0\Example007_MinMax.AssemblyInfo.cs
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\obj\Debug\net6.0\Example007_MinMax.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\obj\Debug\net6.0\Example007_MinMax.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\obj\Debug\net6.0\refint\Example007_MinMax.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\obj\Debug\net6.0\Example007_MinMax.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\obj\Debug\net6.0\Example007_MinMax.genruntimeconfig.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example007_MinMax\obj\Debug\net6.0\ref\Example007_MinMax.dll
