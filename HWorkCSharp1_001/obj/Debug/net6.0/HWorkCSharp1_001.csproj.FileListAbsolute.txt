@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\obj\Debug\net6.0\HWorkCSharp1_001.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\obj\Debug\net6.0\HWorkCSharp1_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\obj\Debug\net6.0\HWorkCSharp1_001.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\obj\Debug\net6.0\HWorkCSharp1_001.AssemblyInfo.cs
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\obj\Debug\net6.0\HWorkCSharp1_001.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\bin\Debug\net6.0\HWorkCSharp1_001.exe
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\bin\Debug\net6.0\HWorkCSharp1_001.deps.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\bin\Debug\net6.0\HWorkCSharp1_001.runtimeconfig.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\bin\Debug\net6.0\HWorkCSharp1_001.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\bin\Debug\net6.0\HWorkCSharp1_001.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\obj\Debug\net6.0\HWorkCSharp1_001.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\obj\Debug\net6.0\refint\HWorkCSharp1_001.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\obj\Debug\net6.0\HWorkCSharp1_001.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\obj\Debug\net6.0\HWorkCSharp1_001.genruntimeconfig.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\HWorkCSharp1_001\obj\Debug\net6.0\ref\HWorkCSharp1_001.dll
