@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\obj\Debug\net6.0\Example008_WhileCount.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\obj\Debug\net6.0\Example008_WhileCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\obj\Debug\net6.0\Example008_WhileCount.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\obj\Debug\net6.0\Example008_WhileCount.AssemblyInfo.cs
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\obj\Debug\net6.0\Example008_WhileCount.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\bin\Debug\net6.0\Example008_WhileCount.exe
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\bin\Debug\net6.0\Example008_WhileCount.deps.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\bin\Debug\net6.0\Example008_WhileCount.runtimeconfig.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\bin\Debug\net6.0\Example008_WhileCount.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\bin\Debug\net6.0\Example008_WhileCount.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\obj\Debug\net6.0\Example008_WhileCount.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\obj\Debug\net6.0\refint\Example008_WhileCount.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\obj\Debug\net6.0\Example008_WhileCount.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\obj\Debug\net6.0\Example008_WhileCount.genruntimeconfig.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example008_WhileCount\obj\Debug\net6.0\ref\Example008_WhileCount.dll
