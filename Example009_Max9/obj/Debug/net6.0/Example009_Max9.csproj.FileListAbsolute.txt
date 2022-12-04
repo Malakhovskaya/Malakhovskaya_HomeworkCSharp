@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\bin\Debug\net6.0\Example009_Max9.exe
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\bin\Debug\net6.0\Example009_Max9.deps.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\bin\Debug\net6.0\Example009_Max9.runtimeconfig.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\bin\Debug\net6.0\Example009_Max9.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\bin\Debug\net6.0\Example009_Max9.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\obj\Debug\net6.0\Example009_Max9.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\obj\Debug\net6.0\Example009_Max9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\obj\Debug\net6.0\Example009_Max9.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\obj\Debug\net6.0\Example009_Max9.AssemblyInfo.cs
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\obj\Debug\net6.0\Example009_Max9.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\obj\Debug\net6.0\Example009_Max9.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\obj\Debug\net6.0\refint\Example009_Max9.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\obj\Debug\net6.0\Example009_Max9.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\obj\Debug\net6.0\Example009_Max9.genruntimeconfig.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example009_Max9\obj\Debug\net6.0\ref\Example009_Max9.dll
