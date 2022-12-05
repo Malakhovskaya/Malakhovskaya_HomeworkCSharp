@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\obj\Debug\net6.0\Example010_FindNumberIndex.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\obj\Debug\net6.0\Example010_FindNumberIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\obj\Debug\net6.0\Example010_FindNumberIndex.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\obj\Debug\net6.0\Example010_FindNumberIndex.AssemblyInfo.cs
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\obj\Debug\net6.0\Example010_FindNumberIndex.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\bin\Debug\net6.0\Example010_FindNumberIndex.exe
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\bin\Debug\net6.0\Example010_FindNumberIndex.deps.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\bin\Debug\net6.0\Example010_FindNumberIndex.runtimeconfig.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\bin\Debug\net6.0\Example010_FindNumberIndex.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\bin\Debug\net6.0\Example010_FindNumberIndex.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\obj\Debug\net6.0\Example010_FindNumberIndex.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\obj\Debug\net6.0\refint\Example010_FindNumberIndex.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\obj\Debug\net6.0\Example010_FindNumberIndex.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\obj\Debug\net6.0\Example010_FindNumberIndex.genruntimeconfig.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Examples\Example010_FindNumberIndex\obj\Debug\net6.0\ref\Example010_FindNumberIndex.dll
